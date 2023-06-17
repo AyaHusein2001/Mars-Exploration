@@ -1,0 +1,41 @@
+TEAM MEMBERS:
+Khaled Mostafa Elsayed ---> sec:1 , BN:20 & email: khaledfarahat82@gmail.com,
+Aya Ahmed Musaad---> sec:1 , BN:20 & email:aya.ahmed2001.aa@gmail.com
+Karim Mahmoud Elabd --->sec:2 , BN:9 & email:kareemsaqer1@gmail.com
+Mahmoud Mohamed Seif --->sec:2 , BN:22 & email:s39028614@gmail.com
+-------------------------------------------------------
+WORK LOAD:
+Khaled Mostafa:
+Class Mars Station:
+with all its responsibilities:
+like executing events ,move missions and rovers to suitable lists when they executed or finished
+collect data for outputfile & creating output file
+calls UI function to print all information needed 
+Class UI 
+the actual UI class used in project:
+take any input from user 
+print on console all informations required
+
+Aya Ahmed:
+two Classes Rovers & Missions: 
+with all Data member needed & member functions :
+all setters & getters for data members ,creating priority equation 
+calculating execution time of mission , its ending day & waited time 
+1 comprehensive test case
+
+Karim Mahmoud:
+classes of Events 
+Events , Formulation , Promotion &Cancellation 
+Data structures needed
+and some member functions in class Mars station:
+functions to add missions to its suitable list 
+function to promote Mountainous mission 
+function to cancel Mountaionous mission
+6 comprehensive test cases
+
+Mahmoud Mohamed: 
+class UI---->"source.cpp"
+
+
+
+
